@@ -76,7 +76,12 @@ The scripts are designed to be run sequentially:
     python train_evaluate_xgboost.py
     ```
     *(Saves final model and results to `model_results/`)*
-6.  **Generate Kaplan-Meier Plot:**
+6.  **Generate Evaluation Plots:**
+    ```bash
+    python generate_evaluation_plots.py
+    ```
+    *(Saves various plots like ROC, PR, Confusion Matrix, Feature Importance, SHAP summary, Calibration to `report/`)*
+7.  **Generate Kaplan-Meier Plot:**
     ```bash
     python ./venv/Scripts/generate_km_plots.py
     ```

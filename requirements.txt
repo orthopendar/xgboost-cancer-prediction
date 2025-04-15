@@ -4,4 +4,6 @@ xgboost
 scikit-learn
 lifelines
 matplotlib
-joblib 
+joblib
+shap
+seaborn 
