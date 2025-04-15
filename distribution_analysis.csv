@@ -1,0 +1,586 @@
+Column,Value,Count,Percentage
+Age recode with <1 year olds,65-69 years,694,10.51833889
+Age recode with <1 year olds,70-74 years,629,9.533191876
+Age recode with <1 year olds,60-64 years,597,9.048196423
+Age recode with <1 year olds,55-59 years,558,8.457108215
+Age recode with <1 year olds,75-79 years,476,7.214307366
+Age recode with <1 year olds,50-54 years,445,6.744468021
+Age recode with <1 year olds,80-84 years,385,5.835101546
+Age recode with <1 year olds,45-49 years,366,5.547135496
+Age recode with <1 year olds,85+ years,357,5.410730524
+Age recode with <1 year olds,40-44 years,321,4.86511064
+Age recode with <1 year olds,35-39 years,286,4.334646863
+Age recode with <1 year olds,15-19 years,273,4.13761746
+Age recode with <1 year olds,30-34 years,256,3.879963625
+Age recode with <1 year olds,10-14 years,233,3.531373143
+Age recode with <1 year olds,25-29 years,229,3.470748712
+Age recode with <1 year olds,20-24 years,190,2.879660503
+Age recode with <1 year olds,05-09 years,136,2.061230676
+Age recode with <1 year olds,01-04 years,99,1.500454683
+Age recode with <1 year olds,00 years,68,1.030615338
+"Race recode (White, Black, Other)",White,4982,75.50772962
+"Race recode (White, Black, Other)","Other (American Indian/AK Native, Asian/Pacific Islander)",931,14.11033647
+"Race recode (White, Black, Other)",Black,608,9.21491361
+"Race recode (White, Black, Other)",Unknown,77,1.167020309
+Sex,Male,3672,55.65322825
+Sex,Female,2926,44.34677175
+Year of diagnosis,2019,1138,17.2476508
+Year of diagnosis,2021,1124,17.03546529
+Year of diagnosis,2017,1119,16.95968475
+Year of diagnosis,2016,1093,16.56562595
+Year of diagnosis,2020,1091,16.53531373
+Year of diagnosis,2018,1033,15.65625947
+ICD-O-3 Hist/behav,8802/3: Giant cell sarcoma,683,10.3516217
+ICD-O-3 Hist/behav,"8890/3: Leiomyosarcoma, NOS",542,8.214610488
+ICD-O-3 Hist/behav,8811/3: Fibromyxosarcoma,448,6.789936344
+ICD-O-3 Hist/behav,"8851/3: Liposarcoma, well differentiated",355,5.380418309
+ICD-O-3 Hist/behav,"9220/3: Chondrosarcoma, NOS",348,5.274325553
+ICD-O-3 Hist/behav,"9180/3: Osteosarcoma, NOS",333,5.046983935
+ICD-O-3 Hist/behav,8801/3: Spindle cell sarcoma,279,4.228554107
+ICD-O-3 Hist/behav,9120/3: Hemangiosarcoma,253,3.834495302
+ICD-O-3 Hist/behav,"8800/3: Sarcoma, NOS",253,3.834495302
+ICD-O-3 Hist/behav,8858/3: Dedifferentiated liposarcoma,229,3.470748712
+ICD-O-3 Hist/behav,9260/3: Ewing sarcoma,227,3.440436496
+ICD-O-3 Hist/behav,8852/3: Myxoid liposarcoma,199,3.016065474
+ICD-O-3 Hist/behav,"9370/3: Chordoma, NOS",170,2.576538345
+ICD-O-3 Hist/behav,9540/3: Malignant peripheral nerve sheath tumor,161,2.440133374
+ICD-O-3 Hist/behav,"8832/3: Dermatofibrosarcoma, NOS",132,2.000606244
+ICD-O-3 Hist/behav,8805/3: Undifferentiated sarcoma,106,1.606547439
+ICD-O-3 Hist/behav,"8850/3: Liposarcoma, NOS",106,1.606547439
+ICD-O-3 Hist/behav,8854/3: Pleomorphic liposarcoma,97,1.470142467
+ICD-O-3 Hist/behav,"9041/3: Synovial sarcoma, spindle cell",82,1.242800849
+ICD-O-3 Hist/behav,"9040/3: Synovial sarcoma, NOS",80,1.212488633
+ICD-O-3 Hist/behav,8840/3: Myxosarcoma,74,1.121551985
+ICD-O-3 Hist/behav,8830/3: Malignant fibrous histiocytoma,74,1.121551985
+ICD-O-3 Hist/behav,9231/3: Myxoid chondrosarcoma,70,1.060927554
+ICD-O-3 Hist/behav,9181/3: Chondroblastic osteosarcoma,67,1.01545923
+ICD-O-3 Hist/behav,8804/3: Epithelioid sarcoma,65,0.985147014
+ICD-O-3 Hist/behav,9364/3: Peripheral neuroectodermal tumor,56,0.848742043
+ICD-O-3 Hist/behav,8920/3: Alveolar rhabdomyosarcoma,55,0.833585935
+ICD-O-3 Hist/behav,"8901/3: Pleomorphic rhabdomyosarcoma, adult type",53,0.803273719
+ICD-O-3 Hist/behav,8803/3: Small cell sarcoma,50,0.757805396
+ICD-O-3 Hist/behav,"9043/3: Synovial sarcoma, biphasic",48,0.72749318
+ICD-O-3 Hist/behav,"9500/3: Neuroblastoma, NOS",44,0.666868748
+ICD-O-3 Hist/behav,"8910/3: Embryonal rhabdomyosarcoma, NOS",44,0.666868748
+ICD-O-3 Hist/behav,"8815/3: Solitary fibrous tumor, malignant",42,0.636556532
+ICD-O-3 Hist/behav,9243/3: Dedifferentiated chondrosarcoma,41,0.621400424
+ICD-O-3 Hist/behav,"8900/3: Rhabdomyosarcoma, NOS",34,0.515307669
+ICD-O-3 Hist/behav,8806/3: Desmoplastic small round cell tumor,28,0.424371022
+ICD-O-3 Hist/behav,"9044/3: Clear cell sarcoma, NOS (except of kidney M-8964/3)",27,0.409214914
+ICD-O-3 Hist/behav,8912/3: Spindle cell rhabdomyosarcoma,25,0.378902698
+ICD-O-3 Hist/behav,9490/3: Ganglioneuroblastoma,24,0.36374659
+ICD-O-3 Hist/behav,"8070/3: Squamous cell carcinoma, NOS",23,0.348590482
+ICD-O-3 Hist/behav,9581/3: Alveolar soft part sarcoma,22,0.333434374
+ICD-O-3 Hist/behav,9192/3: Parosteal osteosarcoma,22,0.333434374
+ICD-O-3 Hist/behav,"9250/3: Giant cell tumor of bone, malignant",21,0.318278266
+ICD-O-3 Hist/behav,"8810/3: Fibrosarcoma, NOS",20,0.303122158
+ICD-O-3 Hist/behav,"8825/3: Myofibroblastoma, malignant",20,0.303122158
+ICD-O-3 Hist/behav,8982/3: Malignant myoepithelioma,20,0.303122158
+ICD-O-3 Hist/behav,9240/3: Mesenchymal chondrosarcoma,19,0.28796605
+ICD-O-3 Hist/behav,9186/3: Central osteosarcoma,19,0.28796605
+ICD-O-3 Hist/behav,"9080/3: Teratoma, malignant, NOS",18,0.272809942
+ICD-O-3 Hist/behav,8855/3: Mixed liposarcoma,18,0.272809942
+ICD-O-3 Hist/behav,"9133/3: Epithelioid hemangioendothelioma, malignant",16,0.242497727
+ICD-O-3 Hist/behav,9182/3: Fibroblastic osteosarcoma,14,0.212185511
+ICD-O-3 Hist/behav,"9270/3: Odontogenic tumor, malignant",13,0.197029403
+ICD-O-3 Hist/behav,"8000/3: Neoplasm, malignant",12,0.181873295
+ICD-O-3 Hist/behav,8963/3: Malignant rhabdoid tumor,12,0.181873295
+ICD-O-3 Hist/behav,"8842/3: Ossifying fibromyxoid tumor, malignant",11,0.166717187
+ICD-O-3 Hist/behav,9561/3: MPNST with rhabdomyoblastic differentiation,11,0.166717187
+ICD-O-3 Hist/behav,"8711/3: Glomus tumor, malignant",11,0.166717187
+ICD-O-3 Hist/behav,9252/3: Malignant tenosynovial giant cell tumor,10,0.151561079
+ICD-O-3 Hist/behav,"8714/3: Perivascular epithelioid tumor, malignant",10,0.151561079
+ICD-O-3 Hist/behav,9137/3: Intimal sarcoma,10,0.151561079
+ICD-O-3 Hist/behav,"8680/3: Paraganglioma, malignant",9,0.136404971
+ICD-O-3 Hist/behav,8033/3: Pseudosarcomatous carcinoma,9,0.136404971
+ICD-O-3 Hist/behav,9183/3: Telangiectatic osteosarcoma,9,0.136404971
+ICD-O-3 Hist/behav,8814/3: Infantile fibrosarcoma,9,0.136404971
+ICD-O-3 Hist/behav,"8071/3: Squamous cell carcinoma, keratinizing, NOS",8,0.121248863
+ICD-O-3 Hist/behav,9194/3: High grade surface osteosarcoma,8,0.121248863
+ICD-O-3 Hist/behav,"9560/3: Neurilemoma, malignant (OBS)",7,0.106092755
+ICD-O-3 Hist/behav,9261/3: Adamantinoma of long bones,7,0.106092755
+ICD-O-3 Hist/behav,"9130/3: Hemangioendothelioma, malignant",7,0.106092755
+ICD-O-3 Hist/behav,9242/3: Clear cell chondrosarcoma,7,0.106092755
+ICD-O-3 Hist/behav,8896/3: Myxoid leiomyosarcoma,6,0.090936647
+ICD-O-3 Hist/behav,"9150/3: Hemangiopericytoma, malignant",6,0.090936647
+ICD-O-3 Hist/behav,9371/3: Chondroid chordoma,6,0.090936647
+ICD-O-3 Hist/behav,8853/3: Round cell liposarcoma,6,0.090936647
+ICD-O-3 Hist/behav,"8004/3: Malignant tumor, spindle cell type",6,0.090936647
+ICD-O-3 Hist/behav,"8010/3: Carcinoma, NOS",5,0.07578054
+ICD-O-3 Hist/behav,"9310/3: Ameloblastoma, malignant",5,0.07578054
+ICD-O-3 Hist/behav,9542/3: Epithelioid MPNST,5,0.07578054
+ICD-O-3 Hist/behav,"8032/3: Spindle cell carcinoma, NOS",5,0.07578054
+ICD-O-3 Hist/behav,"8693/3: Extra-adrenal paraganglioma, malignant",5,0.07578054
+ICD-O-3 Hist/behav,9187/3: Intraosseous well differentiated osteosarcoma,5,0.07578054
+ICD-O-3 Hist/behav,9193/3: Periosteal osteosarcoma,5,0.07578054
+ICD-O-3 Hist/behav,"8240/3: Carcinoid tumor, NOS",4,0.060624432
+ICD-O-3 Hist/behav,9085/3: Mixed germ cell tumor,4,0.060624432
+ICD-O-3 Hist/behav,8710/3: Glomangiosarcoma,4,0.060624432
+ICD-O-3 Hist/behav,8936/3: Gastrointestinal stromal sarcoma,4,0.060624432
+ICD-O-3 Hist/behav,8249/3: Atypical carcinoid tumor,3,0.045468324
+ICD-O-3 Hist/behav,9473/3: Primitive neuroectodermal tumor,3,0.045468324
+ICD-O-3 Hist/behav,8408/3: Eccrine papillary adenocarcinoma,3,0.045468324
+ICD-O-3 Hist/behav,9251/3: Malignant giant cell tumor of soft parts,3,0.045468324
+ICD-O-3 Hist/behav,9071/3: Yolk sac tumor,3,0.045468324
+ICD-O-3 Hist/behav,8200/3: Adenoid cystic carcinoma,3,0.045468324
+ICD-O-3 Hist/behav,"8980/3: Carcinosarcoma, NOS",3,0.045468324
+ICD-O-3 Hist/behav,"9230/3: Chondroblastoma, malignant",2,0.030312216
+ICD-O-3 Hist/behav,"8940/3: Mixed tumor, malignant, NOS",2,0.030312216
+ICD-O-3 Hist/behav,"8690/3: Glomus jugulare tumor, malignant",2,0.030312216
+ICD-O-3 Hist/behav,"8310/3: Clear cell adenocarcinoma, NOS",2,0.030312216
+ICD-O-3 Hist/behav,"9571/3: Perineurioma, malignant",2,0.030312216
+ICD-O-3 Hist/behav,8380/3: Endometrioid carcinoma,2,0.030312216
+ICD-O-3 Hist/behav,"8041/3: Small cell carcinoma, NOS",2,0.030312216
+ICD-O-3 Hist/behav,"8005/3: Malignant tumor, clear cell type",2,0.030312216
+ICD-O-3 Hist/behav,8480/3: Mucinous adenocarcinoma,2,0.030312216
+ICD-O-3 Hist/behav,8857/3: Fibroblastic liposarcoma,2,0.030312216
+ICD-O-3 Hist/behav,"8260/3: Papillary adenocarcinoma, NOS",2,0.030312216
+ICD-O-3 Hist/behav,"9391/3: Ependymoma, NOS",2,0.030312216
+ICD-O-3 Hist/behav,9184/3: Osteosarcoma in Paget disease of bone,2,0.030312216
+ICD-O-3 Hist/behav,"9501/3: Medulloepithelioma, NOS",2,0.030312216
+ICD-O-3 Hist/behav,9221/3: Juxtacortical chondrosarcoma,2,0.030312216
+ICD-O-3 Hist/behav,"8140/3: Adenocarcinoma, NOS",2,0.030312216
+ICD-O-3 Hist/behav,"8021/3: Carcinoma, anaplastic, NOS",1,0.015156108
+ICD-O-3 Hist/behav,9064/3: Germinoma,1,0.015156108
+ICD-O-3 Hist/behav,9185/3: Small cell osteosarcoma,1,0.015156108
+ICD-O-3 Hist/behav,"9580/3: Granular cell tumor, malignant",1,0.015156108
+ICD-O-3 Hist/behav,"8409/3: Eccrine poroma, malignant",1,0.015156108
+ICD-O-3 Hist/behav,9372/3: Dedifferentiated chordoma,1,0.015156108
+ICD-O-3 Hist/behav,"8960/3: Nephroblastoma, NOS",1,0.015156108
+ICD-O-3 Hist/behav,8022/3: Pleomorphic carcinoma,1,0.015156108
+ICD-O-3 Hist/behav,8836/3: Malignant angiomatoid fibrous histiocytoma,1,0.015156108
+ICD-O-3 Hist/behav,9302/3: Ghost cell odontogenic carcinoma,1,0.015156108
+ICD-O-3 Hist/behav,"8074/3: Squamous cell carcinoma, spindle cell",1,0.015156108
+ICD-O-3 Hist/behav,8991/3: Embryonal sarcoma,1,0.015156108
+ICD-O-3 Hist/behav,8921/3: Rhabdomyosarcoma with ganglionic differentiation,1,0.015156108
+ICD-O-3 Hist/behav,9341/3: Clear cell odontogenic carcinoma,1,0.015156108
+ICD-O-3 Hist/behav,"8713/3: Glomangiomyoma, malignant",1,0.015156108
+ICD-O-3 Hist/behav,"9421/3: Pilocytic astrocytoma, malignant",1,0.015156108
+ICD-O-3 Hist/behav,8247/3: Merkel cell carcinoma,1,0.015156108
+ICD-O-3 Hist/behav,8895/3: Myosarcoma,1,0.015156108
+ICD-O-3 Hist/behav,8082/3: Lymphoepithelial carcinoma,1,0.015156108
+ICD-O-3 Hist/behav,8550/3: Acinar cell carcinoma,1,0.015156108
+ICD-O-3 Hist/behav,8894/3: Angiomyosarcoma,1,0.015156108
+ICD-O-3 Hist/behav,"9020/3: Phyllodes tumor, malignant",1,0.015156108
+ICD-O-3 Hist/behav,"8246/3: Neuroendocrine carcinoma, NOS",1,0.015156108
+ICD-O-3 Hist/behav,8410/3: Sebaceous adenocarcinoma,1,0.015156108
+ICD-O-3 Hist/behav,"8821/3: Aggressive fibromatosis, malignant",1,0.015156108
+ICD-O-3 Hist/behav,9170/3: Lymphangiosarcoma,1,0.015156108
+ICD-O-3 Hist/behav,"8090/3: Basal cell carcinoma, NOS",1,0.015156108
+ICD-O-3 Hist/behav,"8003/3: Malignant tumor, giant cell type",1,0.015156108
+Primary Site - labeled,"C49.2-Conn, subcutaneous, other soft tis: lower limb, hip",1880,28.49348287
+Primary Site - labeled,"C49.1-Conn, subcutaneous, other soft tis: upr limb, shoulder",763,11.56411034
+Primary Site - labeled,"C49.5-Conn, subcutaneous, other soft tis: pelvis",550,8.335859351
+Primary Site - labeled,C40.2-Long bones of lower limb and associated joints,480,7.274931798
+Primary Site - labeled,"C49.3-Conn, subcutaneous, other soft tis: thorax",425,6.441345862
+Primary Site - labeled,"C49.0-Conn, subcutaneous, other soft tis: head, face, neck",414,6.274628675
+Primary Site - labeled,"C49.4-Conn, subcutaneous, other soft tis: abdomen",386,5.850257654
+Primary Site - labeled,"C49.6-Conn, subcutaneous, other soft tis: trunk, NOS",321,4.86511064
+Primary Site - labeled,"C41.4-Pelvic bones, sacrum, coccyx and associated joints",246,3.728402546
+Primary Site - labeled,C41.0-Bones of skull and face and associated joints,173,2.622006669
+Primary Site - labeled,"C40.0-Long bones: upper limb, scapula, and associated joints",155,2.349196726
+Primary Site - labeled,C41.2-Vertebral column,136,2.061230676
+Primary Site - labeled,"C49.9-Conn, subcutaneous and other soft tissues, NOS",133,2.015762352
+Primary Site - labeled,"C41.3-Rib, sternum, clavicle and associated joints",122,1.849045165
+Primary Site - labeled,C41.1-Mandible,68,1.030615338
+Primary Site - labeled,C38.0-Heart,39,0.591088209
+Primary Site - labeled,C40.3-Short bones of lower limb and associated joints,33,0.500151561
+Primary Site - labeled,"C41.9-Bone, NOS",33,0.500151561
+Primary Site - labeled,"C47.1-Periph nerves & autonomic nerv sys: upr limb, shoulder",30,0.454683237
+Primary Site - labeled,C40.1-Short bones of upper limb and associated joints,29,0.439527129
+Primary Site - labeled,"C47.2-Periph nerves & autonomic nerv sys: lower limb, hip",27,0.409214914
+Primary Site - labeled,C47.3-Periph nerves & autonomic nerv sys: thorax,25,0.378902698
+Primary Site - labeled,"C47.0-Periph nerves & autonomic nerv sys: head, face, neck",24,0.36374659
+Primary Site - labeled,"C49.8-Overlap conn, subcutaneous, and other soft tissues",22,0.333434374
+Primary Site - labeled,"C47.9-Autonomic nervous system, NOS",19,0.28796605
+Primary Site - labeled,C47.5-Periph nerves & autonomic nerv sys: pelvis,19,0.28796605
+Primary Site - labeled,C47.4-Periph nerves & autonomic nerv sys: abdomen,16,0.242497727
+Primary Site - labeled,"C47.6-Periph nerves & autonomic nerv sys: trunk, NOS",13,0.197029403
+Primary Site - labeled,"C40.9-Bone of limb, NOS",8,0.121248863
+Primary Site - labeled,"C41.8-Overlap bones, joints, and art. cartilage",6,0.090936647
+Primary Site - labeled,C47.8-Overlap of peripheral nerves and autonomic nerv sys,3,0.045468324
+Time from diagnosis to treatment in days recode,0,2196,33.28281297
+Time from diagnosis to treatment in days recode,21,116,1.758108518
+Time from diagnosis to treatment in days recode,28,103,1.561079115
+Time from diagnosis to treatment in days recode,27,100,1.515610791
+Time from diagnosis to treatment in days recode,35,99,1.500454683
+Time from diagnosis to treatment in days recode,20,94,1.424674144
+Time from diagnosis to treatment in days recode,19,90,1.364049712
+Time from diagnosis to treatment in days recode,22,88,1.333737496
+Time from diagnosis to treatment in days recode,15,87,1.318581388
+Time from diagnosis to treatment in days recode,29,86,1.30342528
+Time from diagnosis to treatment in days recode,14,85,1.288269172
+Time from diagnosis to treatment in days recode,13,85,1.288269172
+Time from diagnosis to treatment in days recode,34,82,1.242800849
+Time from diagnosis to treatment in days recode,30,79,1.197332525
+Time from diagnosis to treatment in days recode,41,78,1.182176417
+Time from diagnosis to treatment in days recode,42,75,1.136708093
+Time from diagnosis to treatment in days recode,33,73,1.106395878
+Time from diagnosis to treatment in days recode,32,73,1.106395878
+Time from diagnosis to treatment in days recode,17,72,1.09123977
+Time from diagnosis to treatment in days recode,24,72,1.09123977
+Time from diagnosis to treatment in days recode,10,71,1.076083662
+Time from diagnosis to treatment in days recode,16,70,1.060927554
+Time from diagnosis to treatment in days recode,18,70,1.060927554
+Time from diagnosis to treatment in days recode,36,69,1.045771446
+Time from diagnosis to treatment in days recode,26,68,1.030615338
+Time from diagnosis to treatment in days recode,12,66,1.000303122
+Time from diagnosis to treatment in days recode,7,66,1.000303122
+Time from diagnosis to treatment in days recode,25,66,1.000303122
+Time from diagnosis to treatment in days recode,8,64,0.969990906
+Time from diagnosis to treatment in days recode,31,62,0.939678691
+Time from diagnosis to treatment in days recode,38,61,0.924522583
+Time from diagnosis to treatment in days recode,23,60,0.909366475
+Time from diagnosis to treatment in days recode,43,57,0.863898151
+Time from diagnosis to treatment in days recode,48,57,0.863898151
+Time from diagnosis to treatment in days recode,40,55,0.833585935
+Time from diagnosis to treatment in days recode,11,55,0.833585935
+Time from diagnosis to treatment in days recode,56,54,0.818429827
+Time from diagnosis to treatment in days recode,50,53,0.803273719
+Time from diagnosis to treatment in days recode,9,52,0.788117611
+Time from diagnosis to treatment in days recode,47,50,0.757805396
+Time from diagnosis to treatment in days recode,49,49,0.742649288
+Time from diagnosis to treatment in days recode,46,49,0.742649288
+Time from diagnosis to treatment in days recode,37,48,0.72749318
+Time from diagnosis to treatment in days recode,44,46,0.697180964
+Time from diagnosis to treatment in days recode,54,44,0.666868748
+Time from diagnosis to treatment in days recode,6,42,0.636556532
+Time from diagnosis to treatment in days recode,45,41,0.621400424
+Time from diagnosis to treatment in days recode,39,41,0.621400424
+Time from diagnosis to treatment in days recode,1,38,0.575932101
+Time from diagnosis to treatment in days recode,55,38,0.575932101
+Time from diagnosis to treatment in days recode,2,37,0.560775993
+Time from diagnosis to treatment in days recode,58,35,0.530463777
+Time from diagnosis to treatment in days recode,5,35,0.530463777
+Time from diagnosis to treatment in days recode,62,33,0.500151561
+Time from diagnosis to treatment in days recode,77,31,0.469839345
+Time from diagnosis to treatment in days recode,53,31,0.469839345
+Time from diagnosis to treatment in days recode,4,30,0.454683237
+Time from diagnosis to treatment in days recode,3,30,0.454683237
+Time from diagnosis to treatment in days recode,52,30,0.454683237
+Time from diagnosis to treatment in days recode,51,28,0.424371022
+Time from diagnosis to treatment in days recode,59,27,0.409214914
+Time from diagnosis to treatment in days recode,61,27,0.409214914
+Time from diagnosis to treatment in days recode,63,26,0.394058806
+Time from diagnosis to treatment in days recode,60,25,0.378902698
+Time from diagnosis to treatment in days recode,64,24,0.36374659
+Time from diagnosis to treatment in days recode,70,23,0.348590482
+Time from diagnosis to treatment in days recode,66,23,0.348590482
+Time from diagnosis to treatment in days recode,68,22,0.333434374
+Time from diagnosis to treatment in days recode,84,22,0.333434374
+Time from diagnosis to treatment in days recode,57,22,0.333434374
+Time from diagnosis to treatment in days recode,67,19,0.28796605
+Time from diagnosis to treatment in days recode,69,18,0.272809942
+Time from diagnosis to treatment in days recode,72,17,0.257653834
+Time from diagnosis to treatment in days recode,76,16,0.242497727
+Time from diagnosis to treatment in days recode,65,16,0.242497727
+Time from diagnosis to treatment in days recode,83,16,0.242497727
+Time from diagnosis to treatment in days recode,78,15,0.227341619
+Time from diagnosis to treatment in days recode,99,13,0.197029403
+Time from diagnosis to treatment in days recode,93,12,0.181873295
+Time from diagnosis to treatment in days recode,73,12,0.181873295
+Time from diagnosis to treatment in days recode,75,12,0.181873295
+Time from diagnosis to treatment in days recode,71,12,0.181873295
+Time from diagnosis to treatment in days recode,90,10,0.151561079
+Time from diagnosis to treatment in days recode,89,10,0.151561079
+Time from diagnosis to treatment in days recode,98,10,0.151561079
+Time from diagnosis to treatment in days recode,85,10,0.151561079
+Time from diagnosis to treatment in days recode,86,9,0.136404971
+Time from diagnosis to treatment in days recode,79,9,0.136404971
+Time from diagnosis to treatment in days recode,80,8,0.121248863
+Time from diagnosis to treatment in days recode,91,8,0.121248863
+Time from diagnosis to treatment in days recode,109,7,0.106092755
+Time from diagnosis to treatment in days recode,88,7,0.106092755
+Time from diagnosis to treatment in days recode,105,7,0.106092755
+Time from diagnosis to treatment in days recode,74,7,0.106092755
+Time from diagnosis to treatment in days recode,101,7,0.106092755
+Time from diagnosis to treatment in days recode,87,7,0.106092755
+Time from diagnosis to treatment in days recode,82,7,0.106092755
+Time from diagnosis to treatment in days recode,97,7,0.106092755
+Time from diagnosis to treatment in days recode,119,7,0.106092755
+Time from diagnosis to treatment in days recode,104,6,0.090936647
+Time from diagnosis to treatment in days recode,81,5,0.07578054
+Time from diagnosis to treatment in days recode,92,5,0.07578054
+Time from diagnosis to treatment in days recode,126,5,0.07578054
+Time from diagnosis to treatment in days recode,110,5,0.07578054
+Time from diagnosis to treatment in days recode,96,4,0.060624432
+Time from diagnosis to treatment in days recode,103,4,0.060624432
+Time from diagnosis to treatment in days recode,132,4,0.060624432
+Time from diagnosis to treatment in days recode,113,4,0.060624432
+Time from diagnosis to treatment in days recode,134,4,0.060624432
+Time from diagnosis to treatment in days recode,144,4,0.060624432
+Time from diagnosis to treatment in days recode,102,4,0.060624432
+Time from diagnosis to treatment in days recode,171,4,0.060624432
+Time from diagnosis to treatment in days recode,123,4,0.060624432
+Time from diagnosis to treatment in days recode,108,4,0.060624432
+Time from diagnosis to treatment in days recode,118,4,0.060624432
+Time from diagnosis to treatment in days recode,94,4,0.060624432
+Time from diagnosis to treatment in days recode,133,4,0.060624432
+Time from diagnosis to treatment in days recode,107,4,0.060624432
+Time from diagnosis to treatment in days recode,205,3,0.045468324
+Time from diagnosis to treatment in days recode,152,3,0.045468324
+Time from diagnosis to treatment in days recode,120,3,0.045468324
+Time from diagnosis to treatment in days recode,114,3,0.045468324
+Time from diagnosis to treatment in days recode,122,3,0.045468324
+Time from diagnosis to treatment in days recode,140,3,0.045468324
+Time from diagnosis to treatment in days recode,124,3,0.045468324
+Time from diagnosis to treatment in days recode,100,3,0.045468324
+Time from diagnosis to treatment in days recode,135,3,0.045468324
+Time from diagnosis to treatment in days recode,131,3,0.045468324
+Time from diagnosis to treatment in days recode,174,3,0.045468324
+Time from diagnosis to treatment in days recode,139,3,0.045468324
+Time from diagnosis to treatment in days recode,95,3,0.045468324
+Time from diagnosis to treatment in days recode,155,3,0.045468324
+Time from diagnosis to treatment in days recode,112,3,0.045468324
+Time from diagnosis to treatment in days recode,142,3,0.045468324
+Time from diagnosis to treatment in days recode,237,2,0.030312216
+Time from diagnosis to treatment in days recode,128,2,0.030312216
+Time from diagnosis to treatment in days recode,117,2,0.030312216
+Time from diagnosis to treatment in days recode,161,2,0.030312216
+Time from diagnosis to treatment in days recode,203,2,0.030312216
+Time from diagnosis to treatment in days recode,158,2,0.030312216
+Time from diagnosis to treatment in days recode,115,2,0.030312216
+Time from diagnosis to treatment in days recode,153,2,0.030312216
+Time from diagnosis to treatment in days recode,225,2,0.030312216
+Time from diagnosis to treatment in days recode,137,2,0.030312216
+Time from diagnosis to treatment in days recode,129,2,0.030312216
+Time from diagnosis to treatment in days recode,111,2,0.030312216
+Time from diagnosis to treatment in days recode,156,2,0.030312216
+Time from diagnosis to treatment in days recode,169,2,0.030312216
+Time from diagnosis to treatment in days recode,138,2,0.030312216
+Time from diagnosis to treatment in days recode,185,2,0.030312216
+Time from diagnosis to treatment in days recode,154,2,0.030312216
+Time from diagnosis to treatment in days recode,188,1,0.015156108
+Time from diagnosis to treatment in days recode,240,1,0.015156108
+Time from diagnosis to treatment in days recode,326,1,0.015156108
+Time from diagnosis to treatment in days recode,248,1,0.015156108
+Time from diagnosis to treatment in days recode,243,1,0.015156108
+Time from diagnosis to treatment in days recode,258,1,0.015156108
+Time from diagnosis to treatment in days recode,316,1,0.015156108
+Time from diagnosis to treatment in days recode,199,1,0.015156108
+Time from diagnosis to treatment in days recode,406,1,0.015156108
+Time from diagnosis to treatment in days recode,149,1,0.015156108
+Time from diagnosis to treatment in days recode,295,1,0.015156108
+Time from diagnosis to treatment in days recode,364,1,0.015156108
+Time from diagnosis to treatment in days recode,289,1,0.015156108
+Time from diagnosis to treatment in days recode,432,1,0.015156108
+Time from diagnosis to treatment in days recode,302,1,0.015156108
+Time from diagnosis to treatment in days recode,388,1,0.015156108
+Time from diagnosis to treatment in days recode,193,1,0.015156108
+Time from diagnosis to treatment in days recode,143,1,0.015156108
+Time from diagnosis to treatment in days recode,194,1,0.015156108
+Time from diagnosis to treatment in days recode,157,1,0.015156108
+Time from diagnosis to treatment in days recode,162,1,0.015156108
+Time from diagnosis to treatment in days recode,151,1,0.015156108
+Time from diagnosis to treatment in days recode,148,1,0.015156108
+Time from diagnosis to treatment in days recode,223,1,0.015156108
+Time from diagnosis to treatment in days recode,150,1,0.015156108
+Time from diagnosis to treatment in days recode,159,1,0.015156108
+Time from diagnosis to treatment in days recode,146,1,0.015156108
+Time from diagnosis to treatment in days recode,222,1,0.015156108
+Time from diagnosis to treatment in days recode,220,1,0.015156108
+Time from diagnosis to treatment in days recode,172,1,0.015156108
+Time from diagnosis to treatment in days recode,167,1,0.015156108
+Time from diagnosis to treatment in days recode,212,1,0.015156108
+Time from diagnosis to treatment in days recode,127,1,0.015156108
+Time from diagnosis to treatment in days recode,181,1,0.015156108
+Time from diagnosis to treatment in days recode,224,1,0.015156108
+Time from diagnosis to treatment in days recode,187,1,0.015156108
+Time from diagnosis to treatment in days recode,269,1,0.015156108
+Time from diagnosis to treatment in days recode,145,1,0.015156108
+Time from diagnosis to treatment in days recode,141,1,0.015156108
+Time from diagnosis to treatment in days recode,168,1,0.015156108
+Time from diagnosis to treatment in days recode,365,1,0.015156108
+Time from diagnosis to treatment in days recode,395,1,0.015156108
+Time from diagnosis to treatment in days recode,180,1,0.015156108
+Time from diagnosis to treatment in days recode,344,1,0.015156108
+Time from diagnosis to treatment in days recode,163,1,0.015156108
+Time from diagnosis to treatment in days recode,251,1,0.015156108
+Time from diagnosis to treatment in days recode,211,1,0.015156108
+Time from diagnosis to treatment in days recode,175,1,0.015156108
+Time from diagnosis to treatment in days recode,585,1,0.015156108
+Time from diagnosis to treatment in days recode,178,1,0.015156108
+Time from diagnosis to treatment in days recode,306,1,0.015156108
+Time from diagnosis to treatment in days recode,262,1,0.015156108
+Time from diagnosis to treatment in days recode,431,1,0.015156108
+Time from diagnosis to treatment in days recode,345,1,0.015156108
+Time from diagnosis to treatment in days recode,191,1,0.015156108
+Time from diagnosis to treatment in days recode,260,1,0.015156108
+Time from diagnosis to treatment in days recode,239,1,0.015156108
+Time from diagnosis to treatment in days recode,106,1,0.015156108
+Time from diagnosis to treatment in days recode,177,1,0.015156108
+Time from diagnosis to treatment in days recode,213,1,0.015156108
+Time from diagnosis to treatment in days recode,197,1,0.015156108
+Time from diagnosis to treatment in days recode,291,1,0.015156108
+Time from diagnosis to treatment in days recode,459,1,0.015156108
+RX Summ--Surg/Rad Seq,No radiation and/or no surgery; unknown if surgery and/or radiation given,4346,65.86844498
+RX Summ--Surg/Rad Seq,Radiation after surgery,1293,19.59684753
+RX Summ--Surg/Rad Seq,Radiation prior to surgery,785,11.89754471
+RX Summ--Surg/Rad Seq,Radiation before and after surgery,63,0.954834798
+RX Summ--Surg/Rad Seq,Surgery both before and after radiation,55,0.833585935
+RX Summ--Surg/Rad Seq,Intraoperative rad with other rad before/after surgery,35,0.530463777
+RX Summ--Surg/Rad Seq,Intraoperative radiation,20,0.303122158
+RX Summ--Surg/Rad Seq,"Sequence unknown, but both were given",1,0.015156108
+Reason no cancer-directed surgery,Surgery performed,5574,84.4801455
+Reason no cancer-directed surgery,Not recommended,901,13.65565323
+Reason no cancer-directed surgery,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",57,0.863898151
+Reason no cancer-directed surgery,"Recommended but not performed, patient refused",29,0.439527129
+Reason no cancer-directed surgery,"Recommended, unknown if performed",20,0.303122158
+Reason no cancer-directed surgery,"Recommended but not performed, unknown reason",11,0.166717187
+Reason no cancer-directed surgery,"Not performed, patient died prior to recommended surgery",5,0.07578054
+Reason no cancer-directed surgery,Unknown; death certificate; or autopsy only (2003+),1,0.015156108
+Radiation recode,None/Unknown,3682,55.80478933
+Radiation recode,Beam radiation,2741,41.54289179
+Radiation recode,"Recommended, unknown if administered",72,1.09123977
+Radiation recode,Refused (1988+),63,0.954834798
+Radiation recode,"Radiation, NOS  method or source not specified",13,0.197029403
+Radiation recode,Combination of beam with implants or isotopes,13,0.197029403
+Radiation recode,Radioactive implants (includes brachytherapy) (1988+),11,0.166717187
+Radiation recode,Radioisotopes (1988+),3,0.045468324
+"Chemotherapy recode (yes, no/unk)",No/Unknown,4604,69.77872082
+"Chemotherapy recode (yes, no/unk)",Yes,1994,30.22127918
+Mets at DX-Distant LN (2016+),None; no lymph node metastases,6399,96.98393453
+Mets at DX-Distant LN (2016+),Yes; distant lymph node metastases,127,1.924825705
+Mets at DX-Distant LN (2016+),Unknown,72,1.09123977
+Mets at DX-Other (2016+),None; no other metastases,6259,94.86207942
+Mets at DX-Other (2016+),"Yes; distant mets in known site(s) other than bone, brain, liver, lung, dist LN",259,3.925431949
+Mets at DX-Other (2016+),Unknown,73,1.106395878
+Mets at DX-Other (2016+),generalized metastases such as carinomatosis,7,0.106092755
+Survival months,3,195,2.955441043
+Survival months,2,194,2.940284935
+Survival months,6,188,2.849348287
+Survival months,1,173,2.622006669
+Survival months,4,168,2.546226129
+Survival months,8,167,2.531070021
+Survival months,7,160,2.424977266
+Survival months,14,158,2.39466505
+Survival months,11,155,2.349196726
+Survival months,0,150,2.273416187
+Survival months,5,145,2.197635647
+Survival months,9,143,2.167323431
+Survival months,13,142,2.152167323
+Survival months,10,136,2.061230676
+Survival months,12,134,2.03091846
+Survival months,17,131,1.985450136
+Survival months,16,130,1.970294028
+Survival months,15,124,1.879357381
+Survival months,29,117,1.773264626
+Survival months,18,110,1.66717187
+Survival months,27,105,1.591391331
+Survival months,23,101,1.530766899
+Survival months,25,100,1.515610791
+Survival months,21,97,1.470142467
+Survival months,19,96,1.45498636
+Survival months,20,95,1.439830252
+Survival months,30,94,1.424674144
+Survival months,31,93,1.409518036
+Survival months,28,90,1.364049712
+Survival months,22,89,1.348893604
+Survival months,34,87,1.318581388
+Survival months,26,87,1.318581388
+Survival months,38,83,1.257956957
+Survival months,40,81,1.227644741
+Survival months,33,77,1.167020309
+Survival months,24,75,1.136708093
+Survival months,52,72,1.09123977
+Survival months,32,71,1.076083662
+Survival months,39,69,1.045771446
+Survival months,54,68,1.030615338
+Survival months,37,68,1.030615338
+Survival months,41,68,1.030615338
+Survival months,35,68,1.030615338
+Survival months,47,67,1.01545923
+Survival months,51,65,0.985147014
+Survival months,60,65,0.985147014
+Survival months,45,64,0.969990906
+Survival months,43,63,0.954834798
+Survival months,64,63,0.954834798
+Survival months,49,62,0.939678691
+Survival months,63,62,0.939678691
+Survival months,59,61,0.924522583
+Survival months,48,61,0.924522583
+Survival months,56,60,0.909366475
+Survival months,55,59,0.894210367
+Survival months,67,58,0.879054259
+Survival months,57,58,0.879054259
+Survival months,53,57,0.863898151
+Survival months,69,57,0.863898151
+Survival months,66,56,0.848742043
+Survival months,50,55,0.833585935
+Survival months,42,55,0.833585935
+Survival months,68,55,0.833585935
+Survival months,70,55,0.833585935
+Survival months,62,55,0.833585935
+Survival months,36,54,0.818429827
+Survival months,44,53,0.803273719
+Survival months,46,51,0.772961503
+Survival months,61,49,0.742649288
+Survival months,58,46,0.697180964
+Survival months,71,42,0.636556532
+Survival months,65,36,0.545619885
+SEER cause-specific death classification,Alive or dead of other cause,5285,80.10003031
+SEER cause-specific death classification,Dead (attributable to this cancer dx),1266,19.18763262
+SEER cause-specific death classification,Dead (missing/unknown COD),47,0.712337072
+COD to site recode,Alive,4857,73.61321613
+COD to site recode,Soft Tissue including Heart,776,11.76113974
+COD to site recode,Bones and Joints,247,3.743558654
+COD to site recode,Miscellaneous Malignant Cancer,166,2.515913913
+COD to site recode,Diseases of Heart,73,1.106395878
+COD to site recode,Other Cause of Death,73,1.106395878
+COD to site recode,Lung and Bronchus,57,0.863898151
+COD to site recode,State DC not available or state DC available but no COD,47,0.712337072
+COD to site recode,Breast,22,0.333434374
+COD to site recode,"In situ, benign or unknown behavior neoplasm",19,0.28796605
+COD to site recode,Prostate,16,0.242497727
+COD to site recode,Chronic Obstructive Pulmonary Disease and Allied Cond,14,0.212185511
+COD to site recode,Retroperitoneum,14,0.212185511
+COD to site recode,Non-Melanoma Skin,12,0.181873295
+COD to site recode,Cerebrovascular Diseases,11,0.166717187
+COD to site recode,"Uterus, NOS",11,0.166717187
+COD to site recode,Septicemia,10,0.151561079
+COD to site recode,Brain and Other Nervous System,9,0.136404971
+COD to site recode,Kidney and Renal Pelvis,9,0.136404971
+COD to site recode,Accidents and Adverse Effects,9,0.136404971
+COD to site recode,Alzheimers (ICD-9 and 10 only),8,0.121248863
+COD to site recode,Pancreas,7,0.106092755
+COD to site recode,Melanoma of the Skin,7,0.106092755
+COD to site recode,Diabetes Mellitus,7,0.106092755
+COD to site recode,Colon excluding Rectum,7,0.106092755
+COD to site recode,Acute Myeloid Leukemia,6,0.090936647
+COD to site recode,Other Infectious and Parasitic Diseases including HIV,6,0.090936647
+COD to site recode,Pneumonia and Influenza,6,0.090936647
+COD to site recode,"Nephritis, Nephrotic Syndrome and Nephrosis",6,0.090936647
+COD to site recode,Hypertension without Heart Disease,5,0.07578054
+COD to site recode,Other Endocrine including Thymus,5,0.07578054
+COD to site recode,Urinary Bladder,5,0.07578054
+COD to site recode,"Trachea, Mediastinum and Other Respiratory Organs",5,0.07578054
+COD to site recode,Gum and Other Mouth,5,0.07578054
+COD to site recode,Stomach,4,0.060624432
+COD to site recode,"Peritoneum, Omentum and Mesentery",4,0.060624432
+COD to site recode,Congenital Anomalies,4,0.060624432
+COD to site recode,Ovary,4,0.060624432
+COD to site recode,Suicide and Self-Inflicted Injury,3,0.045468324
+COD to site recode,Liver,3,0.045468324
+COD to site recode,"Other Diseases of Arteries, Arterioles, Capillaries",3,0.045468324
+COD to site recode,Chronic Lymphocytic Leukemia,3,0.045468324
+COD to site recode,Myeloma,3,0.045468324
+COD to site recode,"Symptoms, Signs and Ill-Defined Conditions",3,0.045468324
+COD to site recode,Nasopharynx,2,0.030312216
+COD to site recode,"Nose, Nasal Cavity and Middle Ear",2,0.030312216
+COD to site recode,Small Intestine,2,0.030312216
+COD to site recode,Thyroid,2,0.030312216
+COD to site recode,Non-Hodgkin Lymphoma,2,0.030312216
+COD to site recode,Vulva,2,0.030312216
+COD to site recode,Testis,2,0.030312216
+COD to site recode,Other Male Genital Organs,2,0.030312216
+COD to site recode,Cervix Uteri,1,0.015156108
+COD to site recode,Penis,1,0.015156108
+COD to site recode,Rectum and Rectosigmoid Junction,1,0.015156108
+COD to site recode,Pleura,1,0.015156108
+COD to site recode,Stomach and Duodenal Ulcers,1,0.015156108
+COD to site recode,Homicide and Legal Intervention,1,0.015156108
+COD to site recode,Aortic Aneurysm and Dissection,1,0.015156108
+COD to site recode,Atherosclerosis,1,0.015156108
+COD to site recode,Chronic Myeloid Leukemia,1,0.015156108
+COD to site recode,Esophagus,1,0.015156108
+COD to site recode,Corpus Uteri,1,0.015156108

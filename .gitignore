@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+venv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Generated data/results
+split_data/
+interaction_data/
+model_results/
+report/
+
+# Other
+.DS_Store 
